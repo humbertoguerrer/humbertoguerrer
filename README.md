@@ -11,7 +11,12 @@ My name is Humberto, i'm Java Backend Developer.
 
 <br/>About me:
 <br/>:computer: Computer Science student.
-<br/>:seedling: Java and Spring Framework
-<br/>:books: Bachelor Degree in Law.
+<br/>:seedling: Java and Spring Framework.
 <br/>:blue_heart: HTML, CSS, JS, MySQL, PostgreSQL, Linux.
 
+<details>
+  <summary><b>✨ GitHub Stats and Main Languages</b></summary>
+<i>
+  ![HumbertoGuerrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertoguerrer&show_icons=true&theme=default)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoguerrer&layout=)
+</details>
