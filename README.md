@@ -7,11 +7,11 @@
 ### Hi there 👋
 
 <br/>
-My name is Humberto, i'm Java Backend Developer :coffe:
+My name is Humberto, i'm Java Backend Developer.
 
-About me:
-:computer: Computer Science student
-:coffe: Java and Spring Framework
-:books: Bachelor Degree in Law
-:dog: Dog Lover
-:blue_heart: HTML, CSS, JS, MySQL, PostgreSQL, Linux
+<br/>About me:
+<br/>:computer: Computer Science student.
+<br/>:blue_heart: Java and Spring Framework, HTML, CSS, JS, MySQL, PostgreSQL, Linux.
+<br/>:books: Bachelor Degree in Law.
+<br/>:dog: Dog Lover.
+
