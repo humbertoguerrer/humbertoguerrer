@@ -1,4 +1,4 @@
-# HUMBERTO GUERRER
+# Humberto Guerrer
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/humbertoguerrer)](https://github.com/humbertoguerrer)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humberto-guerrer-neto-1323841a9)](https://www.linkedin.com/in/humberto-guerrer-neto-1323841a9)
@@ -6,17 +6,12 @@
 
 ### Hi there 👋
 
-<!--
-**humbertoguerrer/humbertoguerrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+My name is Humberto, i'm Java Backend Developer :coffe:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+:computer: Computer Science student
+:coffe: Java and Spring Framework
+:books: Bachelor Degree in Law
+:dog: Dog Lover
+:blue_heart: HTML, CSS, JS, MySQL, PostgreSQL, Linux
