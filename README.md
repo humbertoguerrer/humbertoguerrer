@@ -13,6 +13,8 @@ My name is Humberto, i'm Java Backend Developer.
 <br/>:computer: Computer Science student.
 <br/>:seedling: Java and Spring Framework.
 <br/>:blue_heart: HTML, CSS, JS, MySQL, PostgreSQL, Linux.
+<br/>:books: Bachelor Degree in Law, Lawyer.
+
 
 <details>
   <summary><b>✨ GitHub Stats and Main Languages</b></summary>
