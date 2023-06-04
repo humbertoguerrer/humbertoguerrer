@@ -4,11 +4,23 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humbertoguerrer)](https://www.linkedin.com/in/humbertoguerrer)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humberto.guerrer@gmail.com)](mailto:humberto.guerrer@gmail.com/)
 
-Analista de Testes/QA
+Quality Assurance
+
+• Automação de testes (Selenium e Cypress) </br>
+• Testes de performance, carga e stress (JMeter e K6) </br>
+• Testes manuais </br>
+• Elaboração e execução de cenários de testes (Gherkin) </br>
+• Utilização de ferramentas de gestão de projeto e de testes (Jira e Azure) </br>
+• Identificar e reportar incidentes de acordo com a severidade </br>
+• Sugerir funcionalidades e melhorias a serem implementadas </br>
+• Elaboração de relatórios, documentação técnica e manuais do sistema </br>
+• Preparar e aplicar treinamento para equipe interna </br>
+
+Ferramentas de testes: Selenium (Java e Python), Cypress, Postman, Rest Assured, JMeter, K6, Cucumber </br>
+Linguagem principal: Java </br>
+Outros: Git, SQL, Linux, Scrum, BDD
 
 Desenvolvo projetos com Java e Spring Framework
-
-📚 Ciência da Computação, Java, Spring Framework, SQL, Linux.
 
 <details>
   <summary><b>✨ GitHub Stats and Main Languages</b></summary>
