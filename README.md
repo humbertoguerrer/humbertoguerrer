@@ -9,7 +9,7 @@
 🎞️ Entusiasta de cinema <br>
 🌱 Atualmente aprendendo sobre tudo <br>
 🤖 Desenvolvo automações utilizando Java, Javascript, Python e seus frameworks <br>
-
+<br>
 Resumo: <br>
 <br>
 QA com sólida experiência em garantir a qualidade de software em ambientes ágeis. Contribuí de forma significativa para o sucesso de diversas equipes, entregando soluções robustas e eficientes em testes manuais e automatizados de aplicações Web, desktop e API. Sempre focado na melhoria contínua e otimização de processos.
